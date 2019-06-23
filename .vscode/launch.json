@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainPr6",
+            "request": "launch",
+            "mainClass": "es.ucm.fdi.tp.launcher.MainPr6",
+            "projectName": "Pr6"
+        }
+    ]
+}
